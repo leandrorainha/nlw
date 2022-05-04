@@ -1,5 +1,6 @@
-import {Button} from './components/Button'
+import { Button } from "./components/Button";
 
+/*teste github*/
 function App() {
   return (
     <div>
